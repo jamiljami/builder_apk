@@ -1,0 +1,115 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BuildingEffect" preserve="all" />
+    <type fullname="Gameplay.Buildings.Animations.BuildingAudioEventAnimation" preserve="all" />
+    <type fullname="Gameplay.Buildings.Animations.BuildingScaleAnimation" preserve="all" />
+    <type fullname="Gameplay.Buildings.City" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.BuildingAudioView" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.BuildingConnectableView" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.BuildingMaterialRenderer" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.BuildingOpenView" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.BuildingUIRegistrator" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.ManualBuildingMaterialRenderer" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.MountainMaterialRenderer" preserve="all" />
+    <type fullname="Gameplay.Buildings.Components.QuestAnimations" preserve="all" />
+    <type fullname="Gameplay.Buildings.GoalBuilding" preserve="all" />
+    <type fullname="Gameplay.Buildings.Mountains" preserve="all" />
+    <type fullname="Gameplay.Buildings.QuestBuilding" preserve="all" />
+    <type fullname="Gameplay.Buildings.ResourceFactory" preserve="all" />
+    <type fullname="Gameplay.Buildings.ResourceMine" preserve="all" />
+    <type fullname="Gameplay.Buildings.Warehouse" preserve="all" />
+    <type fullname="Gameplay.Connections.ConnectionBlocker" preserve="all" />
+    <type fullname="Gameplay.MapPort.MapPortShipUi" preserve="all" />
+    <type fullname="Gameplay.MapPort.Port" preserve="all" />
+    <type fullname="Gameplay.MapPort.PortShipResourceIcon" preserve="all" />
+    <type fullname="Gameplay.MapPort.PortShipResourceIconRow" preserve="all" />
+    <type fullname="Gameplay.MapPort.ShipProvider" preserve="all" />
+    <type fullname="Settings.ResourcePrefab" preserve="all" />
+    <type fullname="Settings.ResourcesSettings" preserve="all" />
+    <type fullname="Village" preserve="all" />
+    <type fullname="DefaultNamespace.PriceAward" preserve="nothing" serialized="true" />
+    <type fullname="Gameplay.Buildings.MountainsMeshColliderData" preserve="nothing" serialized="true" />
+    <type fullname="Settings.ResourcesSettings/ResourceType" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.MixedReality.GraphicsTools, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.MixedReality.GraphicsTools.MeshOutline" preserve="all" />
+    <type fullname="Microsoft.MixedReality.GraphicsTools.MeshSmoother" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Splines, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Splines.SplineContainer" preserve="all" />
+    <type fullname="UnityEngine.Splines.BezierKnot" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.KnotLinkCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.Spline" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.Spline/MetaData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.SplineDataDictionary`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.SplineDataDictionary`1[System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.SplineDataDictionary`1[Unity.Mathematics.float4]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.SplineDataDictionary`1[UnityEngine.Object]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Mathematics">
+    <type fullname="Unity.Mathematics.float3" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.float4" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.quaternion" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
